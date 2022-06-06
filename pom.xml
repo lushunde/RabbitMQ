@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.lushunde</groupId>
-    <artifactId>study-rabbitmq-api</artifactId>
+    <artifactId>demonstrate-API</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
